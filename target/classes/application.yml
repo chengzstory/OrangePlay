@@ -1,0 +1,13 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/shop?useUnicode=true&amp;characterEncoding=utf-8&amp;autoReconnect=true
+    username: root
+    password: 123456
+  mail:
+    host: smtp.163.com
+    username: chengzstory@163.com
+    password: chengzhi5234
+
+
+
